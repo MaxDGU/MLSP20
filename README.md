@@ -1,4 +1,4 @@
-Language models are increasing in use for AI applications in the music industry. To fully automate musical production, there lie three interesting technical problems: chord prediction, genre classification, and  melody generation. In this project I feed several language networks with jazz chord data to evaluate their effectiveness at predicting the next group of chords in a song. 
+In this project I feed several language networks (LSTM's, RNN's) with jazz chord data to evaluate their effectiveness at predicting the next group of chords (2,4, ans 8 beats) in a song. Research project on AI-assisted music making with the Institute for Acoustic Music Research. 
 
 
 Upgraded chord data representations from MLSP19.  
